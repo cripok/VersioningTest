@@ -3,3 +3,6 @@ file.txt - a test file
 file initialized
 v0.0
 
+minor change
+v0.1
+
